@@ -1,2 +1,2 @@
 # Google Apps Script
-A collection of Google Apps Script that I've worked on over time.
+This is a collection of Apps Script forked from [here](https://github.com/choraria/google-apps-script/). If you want to report an issue please report it in the main repo
